@@ -1,0 +1,10 @@
+
+uniqueId:
+userName:
+operatorName:
+email:
+password:
+confirmPassword:
+
+userName:
+password:

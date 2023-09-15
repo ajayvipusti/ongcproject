@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "id_c": 20,
+      "entity_type": "employee1",
+      "display_label": "display",
+      "phase_id": "AB23",
+      "category_c": "developer",
+      "impmcategory_c": "sub-junior"
+    },
+    {
+      "id": 2,
+      "id_c": 21,
+      "entity_type": "employee2",
+      "display_label": "display",
+      "phase_id": "AB24",
+      "category_c": "flutter",
+      "impmcategory_c": "junior"
+    },
+    {
+      "id": 3,
+      "id_c": 22,
+      "entity_type": "employee3",
+      "display_label": "display",
+      "phase_id": "AB25",
+      "category_c": "designer",
+      "impmcategory_c": "senior"
+    },
+    {
+      "id": 4,
+      "id_c": 23,
+      "entity_type": "employee4",
+      "display_label": "display",
+      "phase_id": "AB26",
+      "category_c": "React.js",
+      "impmcategory_c": "super-senior"
+    },
+    {
+      "id": 5,
+      "id_c": 24,
+      "entity_type": "employee5",
+      "display_label": "display",
+      "phase_id": "AB27",
+      "category_c": "PHP Developer",
+      "impmcategory_c": "intern"
+    }
+  ]
+}
